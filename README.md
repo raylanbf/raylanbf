@@ -2,7 +2,15 @@
 
 
 ![mult](https://castwars.com/wp-content/uploads/2019/09/hyperdrive-2.gif)
-
+<p align="center">
+  <a href="https://github.com/raylanbf/raylanbf/graphs/contributors">
+    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
+  <a href="https://github.com/raylanbf/raylanbf/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+  </a>
+  <a href="https://github.com/raylanbf/raylanbf/pulls">
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+  <br />
 
 ola, sou Raylanbf 🤔
 
@@ -38,16 +46,7 @@ ola, sou Raylanbf 🤔
 
 
 
-<p align="center">
-  <a href="https://github.com/raylanbf/raylanbf/graphs/contributors">
-    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
-  <a href="https://github.com/raylanbf/raylanbf/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
-  </a>
-  <a href="https://github.com/raylanbf/raylanbf/pulls">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
 
-  <br />
 
 
 
