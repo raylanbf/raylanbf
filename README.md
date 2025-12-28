@@ -32,33 +32,32 @@ ola, sou Raylanbf 🤔
 | Prototipando Soluções Reais com PartyRock na AWS | [Certificado](https://hermes.dio.me/certificates/CLEGOZFJ.pdf)|
 
 ------
-![Raylanbr GitHub stats](https://github-readme-stats.vercel.app/api?username=raylanbf&show_icons=true&theme=radical)
 
 
 
 
 
 
+<p align="center">
+  <a href="https://github.com/raylanbf/raylanbf/graphs/contributors">
+    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
+  <a href="https://github.com/raylanbf/raylanbf/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+  </a>
+  <a href="https://github.com/raylanbf/raylanbf/pulls">
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+
+  <br />
 
 
 
 
 
+ 
 
 
 
 
-
-
-
-
-ZZz
-# Titulo 1
-## Titulo 2
-### Titulo 3
-#### Titulo 4
-##### Titulo 5
-###### Titulo 6
 
 <!--
 **raylanbf/raylanbf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -74,6 +73,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-[def]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
