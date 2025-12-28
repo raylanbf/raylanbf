@@ -12,12 +12,14 @@ ola, sou Raylanbf 🤔
 ---------
 
 ## Minhas Tecnologias
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="40px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="40px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="40px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="40px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="40px">
 
+</p>
 ---
 
 | Cursos | Certificados |
@@ -30,9 +32,7 @@ ola, sou Raylanbf 🤔
 | Prototipando Soluções Reais com PartyRock na AWS | [Certificado](https://hermes.dio.me/certificates/CLEGOZFJ.pdf)|
 
 ------
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
+![Raylanbr GitHub stats](https://github-readme-stats.vercel.app/api?username=raylanbf&show_icons=true&theme=radical)
 
 
 
@@ -74,3 +74,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[def]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
