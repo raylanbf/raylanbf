@@ -1,8 +1,58 @@
-## Hi there 👋
+## Seja bem vindo ao Meu Multiverso👋
 
 
-<!-- cabecalhos -->
+![mult](https://castwars.com/wp-content/uploads/2019/09/hyperdrive-2.gif)
 
+
+ola, sou Raylanbf 🤔
+
+--------------  
+📫 [Linked](https://www.linkedin.com/in/raylanbf/)
+
+---------
+
+## Minhas Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="40px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="40px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="40px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="40px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="40px">
+
+---
+
+| Cursos | Certificados |
+|--------|-------------|
+| Processamento de Linguagem Natural | [Certificado](https://hermes.dio.me/certificates/WK5DBK0X.pdf)|
+| Nexa - Fundamentos de IA Generativa com Bedrock | [Certificado](https://hermes.dio.me/certificates/CNTYVMGG.pdf)|
+| Aprimorando seu Desenvolvimento com o GitHub Copilot: o Poder de Ter um Copiloto em seu Fluxo de Trabalho | [Certificado](https://hermes.dio.me/certificates/WTW5ULUR.pdf)|
+| Introdução ao Excel com Inteligência Artificial | [Certificado](https://hermes.dio.me/certificates/JLOF5ACS.pdf)|
+| Fundamentos da Arquitetura da Informação | [Certificado](https://hermes.dio.me/certificates/EG4FATWK.pdf)|
+| Prototipando Soluções Reais com PartyRock na AWS | [Certificado](https://hermes.dio.me/certificates/CLEGOZFJ.pdf)|
+
+------
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ZZz
 # Titulo 1
 ## Titulo 2
 ### Titulo 3
